@@ -16,7 +16,7 @@ class _AromaPageState extends State<AromaPage> {
   bool _isClicked = false;
   bool _ischanged = false;
   bool _isthird = false;
-  bool _isforth = false;
+  bool _isforth = false;n
 
   void _toggleColor() {
     setState(() {
